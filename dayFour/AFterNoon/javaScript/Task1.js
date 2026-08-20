@@ -1,0 +1,19 @@
+
+
+const scanner = require("prompt-sync") ();
+
+	let score1= scanner("Enter score1:  ");
+	let score2= scanner("Enter score2:  ");
+	let score3= scanner("Enter score3:  ");
+	let score4= scanner("Enter score4:  ");
+	let score5= scanner("Enter score5:  ");
+	let score6= scanner("Enter score6:  ");
+	let score7= scanner("Enter score7:  ");
+	let score8= scanner("Enter score8:  ");
+	let score9= scanner("Enter score9:  ");
+	let score10= scanner("Enter score10:  ");
+
+	let sum = score1 + score2 + score3 + score4 + score6 + score7 + score8 + score9 + score10;
+
+
+
